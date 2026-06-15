@@ -97,15 +97,6 @@ Performance degraded under:
 - Not scale invariant
 - Sensitive to large, abrupt motion
 
----
-
-## 🔮 Future Work
-
-- Automatic object detection
-- Kalman filtering for trajectory smoothing
-- Deep learning integration (SORT / DeepSORT)
-- Multi-object tracking
-- Re-detection after feature loss
 
 ---
 
